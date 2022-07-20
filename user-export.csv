@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,cognito:mfa_enabled,cognito:username
+test@test.com,,,,,,,,,test@test.com,true,,,,,+918329085408,true,,,false,test@test.com
